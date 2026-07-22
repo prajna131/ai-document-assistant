@@ -1,0 +1,36 @@
+ZentaraFlow Smart Water Bottle - Product Guide
+
+Overview
+ZentaraFlow is a smart water bottle developed by Nuvexa Labs, first released on
+March 14, 2024. It helps users stay hydrated by tracking water intake and
+reminding them to drink throughout the day.
+
+Key Specifications
+- Capacity: 750 milliliters
+- Battery life: 21 days on a single charge
+- Weight: 340 grams
+- Material: Medical-grade stainless steel with a bamboo cap
+- Colors available: Midnight Blue, Coral Pink, and Forest Green
+- Water temperature sensor accuracy: plus or minus 0.5 degrees Celsius
+
+Smart Features
+The bottle contains a sensor called the HydroCore chip, which measures how much
+water is consumed. It syncs with the ZentaraFlow mobile app over Bluetooth 5.2.
+The app calculates a daily hydration goal based on the user's weight, activity
+level, and the local weather temperature.
+
+The glowing ring on the bottle cap lights up blue when it is time to drink. If
+the user ignores three reminders in a row, the ring switches to a pulsing red.
+
+Pricing and Warranty
+ZentaraFlow is priced at 49 US dollars. It comes with a 2-year limited warranty.
+Replacement bamboo caps can be purchased separately for 8 US dollars each.
+
+Customer Support
+For support, customers can email help@nuvexalabs.example or call the support line,
+which is open Monday to Friday, 9 AM to 6 PM Pacific Time. The average response
+time for email support is under 4 hours.
+
+Fun Fact
+The name "ZentaraFlow" comes from combining the words "Zen" (calm) and "Tara"
+(a star), reflecting the company's goal of making hydration effortless and calm.
