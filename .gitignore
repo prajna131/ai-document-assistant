@@ -1,0 +1,20 @@
+# Secrets
+.env
+
+# Data & vector database (can be large / private)
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# PyCharm / IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
